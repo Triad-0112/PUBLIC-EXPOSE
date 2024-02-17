@@ -357,3 +357,46 @@ https://pemilu2024.kpu.go.id/pilpres/hitung-suara/75/7502/750202/7502022001/7502
 https://pemilu2024.kpu.go.id/pilpres/hitung-suara/75/7571/757101/7571011008/7571011008011
 ```
 ## POHUWATO
+
+# JAMBI
+## KERINCI
+```
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/15/1501/150102/1501022002/1501022002001
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/15/1501/150109/1501092045/1501092045002
+```
+## MERANGIN
+```
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/15/1502/150209/1502092009/1502092009001
+```
+## MUARO JAMBI
+```
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/15/1505/150507/1505072034/1505072034006
+```
+## BATANGHARI
+```
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/15/1504/150404/1504042016/1504042016003
+```
+## BUNGO
+```
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/15/1508/150816/1508162003/1508162003002
+```
+## KOTA JAMBI
+```
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/15/1571/157106/1571061003/1571061003009
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/15/1571/157101/1571011004/1571011004005
+```
+## KOTA SUNGAI PENUH
+## SAROLANGUN
+## TANJUNG JABUNG BARAT
+```
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/15/1506/150611/1506111001/1506111001001
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/15/1506/150605/1506052012/1506052012003
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/15/1506/150610/1506102008/1506102008001
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/15/1506/150606/1506061001/1506061001016
+```
+## TANJUNG JABUNG TIMUR
+## TEBO
+```
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/15/1509/150907/1509072001/1509072001003
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/15/1509/150909/1509092006/1509092006003
+```
