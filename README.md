@@ -202,28 +202,28 @@ https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1118/111802/1118022010/1118
 # DAERAH ISTIMEWA YOGYAKARTA
 ## BANTUL
 ```
-https://sirekap-obj-data.kpu.go.id/pemilu/hhcw/ppwp/34/3402/340205/3402052003/3402052003005.json
-https://sirekap-obj-data.kpu.go.id/pemilu/hhcw/ppwp/34/3402/340205/3402052003/3402052003009.json
-https://sirekap-obj-data.kpu.go.id/pemilu/hhcw/ppwp/34/3402/340203/3402032003/3402032003011.json
-https://sirekap-obj-data.kpu.go.id/pemilu/hhcw/ppwp/34/3402/340202/3402022002/3402022002006.json
-https://sirekap-obj-data.kpu.go.id/pemilu/hhcw/ppwp/34/3402/340202/3402022004/3402022004016.json
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/34/3402/340205/3402052003/3402052003005
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/34/3402/340205/3402052003/3402052003009
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/34/3402/340203/3402032003/3402032003011
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/34/3402/340202/3402022002/3402022002006
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/34/3402/340202/3402022004/3402022004016
 ```
 ## GUNUNGKIDUL
 ## KOTA YOGYAKARTA
 ```
-https://sirekap-obj-data.kpu.go.id/pemilu/hhcw/ppwp/34/3471/347108/3471081003/3471081003012.json
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/34/3471/347108/3471081003/3471081003012
 ```
 ## KULON PROGO
 ```
-https://sirekap-obj-data.kpu.go.id/pemilu/hhcw/ppwp/34/3401/340112/3401122004/3401122004005.json
-https://sirekap-obj-data.kpu.go.id/pemilu/hhcw/ppwp/34/3401/340105/3401052002/3401052002023.json
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/34/3401/340112/3401122004/3401122004005
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/34/3401/340105/3401052002/3401052002023
 ```
 ## SLEMAN
 ```
-https://sirekap-obj-data.kpu.go.id/pemilu/hhcw/ppwp/34/3404/340417/3404172005/3404172005014.json
-https://sirekap-obj-data.kpu.go.id/pemilu/hhcw/ppwp/34/3404/340416/3404162005/3404162005002.json
-https://sirekap-obj-data.kpu.go.id/pemilu/hhcw/ppwp/34/3404/340405/3404052001/3404052001006.json
-https://sirekap-obj-data.kpu.go.id/pemilu/hhcw/ppwp/34/3404/340405/3404052001/3404052001011.json
-https://sirekap-obj-data.kpu.go.id/pemilu/hhcw/ppwp/34/3404/340414/3404142002/3404142002008.json
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/34/3404/340417/3404172005/3404172005014
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/34/3404/340416/3404162005/3404162005002
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/34/3404/340405/3404052001/3404052001006
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/34/3404/340405/3404052001/3404052001011
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/34/3404/340414/3404142002/3404142002008
 ```
 
