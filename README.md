@@ -344,3 +344,16 @@ https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3172/317202/3172021006/3172
 https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3172/317202/3172021001/3172021001030
 https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3172/317202/3172021001/3172021001065
 ```
+# GORONTALO
+## BOALEMO
+```
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/75/7502/750202/7502022001/7502022001002
+```
+## BONE BOLANGO
+## GORONTALO
+## GORONTALO UTARA
+## KOTA GORONTALO
+```
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/75/7571/757101/7571011008/7571011008011
+```
+## POHUWATO
